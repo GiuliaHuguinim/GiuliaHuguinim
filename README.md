@@ -1,0 +1,5 @@
+- 👋 Olá sou @GiuliaHuguinim
+- 👀 Estou interresada em estagiar e desbravar barreiras
+- 🌱 Atualmente estou aprendendo mais sobre JavaScript, Html e CSS
+- 💞️ Procuro colaborar com todos
+- 📫 Entre em contato comigo por giuliavhb@gmail.com

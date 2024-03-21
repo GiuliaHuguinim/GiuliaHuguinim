@@ -1,4 +1,4 @@
-## Olá, Devs! Eu sou a Giulia Huguinim 🚀
+## Olá, Devs!🚀
 
 ### Bem-vindo ao meu perfil GitHub! 🎉
 

@@ -2,7 +2,7 @@
 <p align="center">🎓 Estudante de Engenharia de Software</p>
 
 <p align="center">
-  <img src="https://i.gifer.com/3jnj.gif" width="300" />
+  <img src="https://i.gifer.com/3jnj.gif" width="200" />
 </p>
 
 ---

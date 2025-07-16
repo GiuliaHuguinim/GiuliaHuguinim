@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://camo.githubusercontent.com/133c55d7e38d265f71256e094b384b7a56b58576b88b6d52122b02a5cf57d04d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578636e59344e47746a4d6d566a5932647a4d475235623259345a5868745a473830646e49345a6d4532645459315a4841774d33707163535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f4e67757259316f347a3038304a666f797a772f67697068792e676966" width="150">
-  <h1>Olá, sou a Giulia Huguinim! ✨</h1>
+  <h1>Oii Devs, me chamo Giulia Huguinim! ✨</h1>
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&duration=4000&color=87CEEB&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Apaixonada+por+Análise+de+Dados;Desenvolvedora+Python" />
   </a>
@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td valign="top" width="65%">
-      <p>Olá! Estou mergulhada no universo da <strong>Engenharia de Software</strong>, sempre buscando formas de usar a tecnologia para resolver problemas reais. Minha paixão é a ponte entre o desenvolvimento backend e o poder dos dados.</p>
+      <p>Estou mergulhada no universo da <strong>Engenharia de Software</strong>, sempre buscando formas de usar a tecnologia para resolver problemas reais. Minha paixão é a ponte entre o desenvolvimento backend e o poder dos dados.</p>
       <p>O que eu amo fazer:</p>
       <ul>
         <li>💡 Transformar dados brutos em dashboards interativos com <strong>Power BI</strong>.</li>

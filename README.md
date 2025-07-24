@@ -17,7 +17,7 @@
       <p>O que eu amo fazer:</p>
       <ul>
         <li>💡 Transformar dados brutos em dashboards interativos com <strong>Power BI</strong>.</li>
-        <li>⚙️ Construir o "cérebro" de aplicações web com <strong>Python</strong> e <strong>Django</strong>.</li>
+        <li>⚙️ Construir o "cérebro" de aplicações com <strong>Python</strong> </li>
         <li>☕ Movida a café, código e um bom desafio!</li>
       </ul>
       <p>Atualmente, estou aprofundando meus conhecimentos e busco oportunidades para colaborar em projetos inovadores.</p>
@@ -34,7 +34,6 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>

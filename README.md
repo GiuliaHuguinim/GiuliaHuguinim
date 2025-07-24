@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td valign="top" width="65%">
-      <p>Estou mergulhada no universo da <strong>Engenharia de Software</strong>, sempre buscando formas de usar a tecnologia para resolver problemas reais. Minha paixão é a ponte entre o desenvolvimento backend e o poder dos dados.</p>
+      <p>Como futura <strong>Engenharia de Software</strong>, sempre ando buscando formas de usar a tecnologia para resolver problemas reais. Minha paixão é a ponte entre o desenvolvimento backend e o poder dos dados.</p>
       <p>O que eu amo fazer:</p>
       <ul>
         <li>💡 Transformar dados brutos em dashboards interativos com <strong>Power BI</strong>.</li>

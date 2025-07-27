@@ -16,9 +16,9 @@
       <p>Como futura <strong>Engenharia de Software</strong>, sempre ando buscando formas de usar a tecnologia para resolver problemas reais. Minha paixão é a ponte entre o desenvolvimento backend e o poder dos dados.</p>
       <p>O que eu amo fazer:</p>
       <ul>
-        <li>💡 Transformar dados brutos em dashboards interativos com <strong>Power BI</strong>.</li>
-        <li>⚙️ Construir o "cérebro" de aplicações com <strong>Python</strong> </li>
-        <li>☕ Movida a café, código e um bom desafio!</li>
+        <li>💡 Transformar dados em dashboards interativos com <strong>Power BI</strong>.</li>
+        <li>⚙️ Construir e debugar as aplicações em <strong>Python</strong>.</li>
+        <li>☕ Movida a café, código, chocolate e um bom desafio.</li>
       </ul>
       <p>Atualmente, estou aprofundando meus conhecimentos e busco oportunidades para colaborar em projetos inovadores.</p>
     </td>

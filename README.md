@@ -48,7 +48,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giuliahuguinim&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br&cache_bust=2"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliahuguinim&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&cache_bust=2"/>
 </div>
+
 ---
+
 ### 🤔 Vamos Conversar?
 
 Adoraria me conectar e trocar ideias! Me encontre por aqui:

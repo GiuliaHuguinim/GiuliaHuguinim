@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td valign="top" width="65%">
-      <p>Como futura <strong>Engenharia de Software</strong>, sempre ando buscando formas de usar a tecnologia para resolver problemas reais. Minha paixão é a ponte entre o desenvolvimento backend e o poder dos dados.</p>
+      <p>Como futura <strong>Engenheira de Software</strong>, sempre ando buscando formas de usar a tecnologia para resolver problemas reais. Minha paixão é a ponte entre o desenvolvimento backend e o poder dos dados.</p>
       <p>O que eu amo fazer:</p>
       <ul>
         <li>💡 Transformar dados em dashboards interativos com <strong>Power BI</strong>.</li>
@@ -45,7 +45,7 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giuliahuguinim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giuliahuguinim&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliahuguinim&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
 </div>
 
